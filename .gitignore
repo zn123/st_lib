@@ -1,4 +1,7 @@
 DARWIN_*_DBG
 LINUX_*_DBG
+DARWIN_*_OPT
+LINUX_*_OPT
 obj
 st.pc
+DARWIN_*
